@@ -1,0 +1,14 @@
+{
+  "default": {
+    "features": {
+      "id": { "dtype": "string", "_type": "Value" },
+      "requirement": { "dtype": "string", "_type": "Value" },
+      "code": { "dtype": "string", "_type": "Value" },
+      "metadata": { "dtype": "string", "_type": "Value" },
+      "reference_metadata": { "dtype": "string", "_type": "Value" }
+    },
+    "splits": {
+      "train": { "name": "train", "dataset_name": "SKYLENAGE-GameCodeGym" }
+    }
+  }
+}
